@@ -731,8 +731,7 @@ s0.parentNode.insertBefore(s1,s0);
          </div>
       </div>
       <!-- Footer End -->
-      <!-- Back to Top -->
-      <a href="" class="btn btn-primary border-inner py-3 fs-4 back-to-top" style="display: none;"><i class="bi bi-arrow-up"></i></a>
+
       <script src="./assets/js/jquery-3.4.1.min.js"></script>
       <script src="./assets/js/bootstrap.bundle.min.js"></script>
       <script src="./assets/js/easing.min.js"></script>
