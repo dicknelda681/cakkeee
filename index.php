@@ -714,7 +714,7 @@
       </div>
       <div class="container-fluid text-secondary py-4" style="background: #111111;">
          <div class="container text-center">
-            <p class="mb-0">© <a class="text-white border-bottom" href="">SweetCraft</a>. All Rights Reserved </p>
+            <p class="mb-0">© <a class="text-white border-bottom" href="">SweetCraft</a>. All Rights Reserveds </p>
          </div>
       </div>
       <!-- Footer End -->
